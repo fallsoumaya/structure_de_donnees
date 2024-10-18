@@ -1,0 +1,10 @@
+xml_data = """
+<student>
+    <id>DEL</id>
+    <name>Jack</name>
+    <email>jack@example.com</email>
+    <semester>8</semester>
+    <class>CSE</class>
+    <cgpa>7.5</cgpa>
+</student>
+"""

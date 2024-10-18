@@ -1,0 +1,16 @@
+
+xmltodict
+pandas==2.2.2
+PyYAML==6.0.1
+json==2.2.2
+# lister les packages dont on a besoin en spécifiant la version
+# Ex : PyQt5>=5.15.4
+# Creating venv process
+# python3 -m venv [nom venv]
+# Activate venv
+# source [nom venv]/bin/activate
+# Install dependencies
+# pip install -r file_name
+
+# Desactivate venv
+# deactivate
